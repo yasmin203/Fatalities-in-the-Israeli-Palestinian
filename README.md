@@ -17,7 +17,7 @@
 - ﻿﻿The average Count of killed_by was higher for the Gaza Strip (1,104.71) than the West Bank (226).﻿﻿
 
 - Gunfire was the most common injury type 
-!()["https://github.com/yasmin203/Fatalities-in-the-Israeli-Palestinian/blob/main/dashboard.png"]
+  ![](https://github.com/yasmin203/Fatalities-in-the-Israeli-Palestinian/blob/main/dashboard.png)
 
 ﻿
 ﻿﻿
